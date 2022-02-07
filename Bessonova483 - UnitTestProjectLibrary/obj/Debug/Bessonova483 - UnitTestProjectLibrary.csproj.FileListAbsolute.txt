@@ -1,0 +1,18 @@
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Bessonova483 - UnitTestProjectLibrary.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Bessonova483 - UnitTestProjectLibrary.pdb
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Bessonova483-classLibrary.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Bessonova483-classLibrary.pdb
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\obj\Debug\Bessonova483 - UnitTestProjectLibrary.csproj.AssemblyReference.cache
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\obj\Debug\Bessonova483 - UnitTestProjectLibrary.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\obj\Debug\Bessonova483 - UnitTestProjectLibrary.dll
+F:\мои данные\vs\Bessonova483 - UnitTestProjectLibrary\Bessonova483 - UnitTestProjectLibrary\obj\Debug\Bessonova483 - UnitTestProjectLibrary.pdb
